@@ -29,7 +29,7 @@ CMD ["httpd", "-D", "FOREGROUND"]
 docker build -t latest .
 docker images
 
-// go create access key by : Click Profile -> scroll -> Create Access Key -> check box -> Create
+// go create access key by : Click Profile -> Security credentials -> scroll -> Create Access Key -> CLI -> last check box -> Next -> Create
 
 aws configure
 Access key : …………..
